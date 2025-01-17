@@ -144,9 +144,19 @@
               "icon": "lucide-list",
               "title": "工具链之vscode 的大纲"
             }
+          },
+          {
+            "id": "92d909287b638532",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,9 +175,9 @@
   },
   "active": "db0aaf27dd5fdc7d",
   "lastOpenFiles": [
+    "编程设计/工具链/工具链之vscode.md",
     "编程设计/工具链/工具链之Markdown.md",
     "编程设计/工具链/工具链之SourceTree.md",
-    "编程设计/工具链/工具链之vscode.md",
     "备忘提醒",
     "编程设计/开发模式/单元测试",
     "编程设计/开发模式",

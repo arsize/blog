@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,6 +175,7 @@
   },
   "active": "db0aaf27dd5fdc7d",
   "lastOpenFiles": [
+    "小说博客/灵感收集/原创角色收集.md",
     "编程设计/工具链/工具链之vscode.md",
     "编程设计/工具链/工具链之Markdown.md",
     "编程设计/工具链/工具链之SourceTree.md",
@@ -184,7 +185,6 @@
     "小课系列",
     "书评影评",
     "小说博客/小说/第一章.md",
-    "小说博客/灵感收集/原创角色收集.md",
     "临时文稿",
     "编程设计/工具链/工具链之WezTerm.md",
     "小说博客/所思所想",

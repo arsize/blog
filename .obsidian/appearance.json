@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Everforest Enchanted",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "translucency": false
 }
